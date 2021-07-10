@@ -1,0 +1,2 @@
+rootProject.name = "LastKnowLocation"
+include ':app'
